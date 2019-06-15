@@ -1,6 +1,6 @@
 ---
 title: Nominees for the Executive Committee (2019-2020)
-slug: call-for-nominations
+slug: call-for-nominations    
 date: 2018-07-31
 cover_image: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
 cover_image_by: Internet Archive Book Images
